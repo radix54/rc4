@@ -7,7 +7,7 @@ RC4 Go implementation
 > Furthermore RC4 is a deprecated cipher and its insecurity is worldwide recognized and proven.
 
 ## Authors
-- Lorenzo Radice @ozneroL541
+- Lorenzo Radice @radix54
 
 ## License
 Copyright (C) 2026 Lorenzo Radice
